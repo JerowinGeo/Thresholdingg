@@ -32,10 +32,10 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
-NAME : Jerowin Geo J A
-REF NO : 212223100016
-
 ```
+#NAME : Jerowin Geo J A
+#REF NO : 212223100016
+
 # Load the necessary packages
 
 import numpy as np
